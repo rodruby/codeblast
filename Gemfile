@@ -51,3 +51,4 @@ gem 'coffee-script-source', '1.8.0'
 #Use bootstrap
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'spring', group: :development
+gem 'font-awesome-sass', '~> 4.4.0' 
